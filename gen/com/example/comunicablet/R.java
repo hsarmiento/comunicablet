@@ -1077,7 +1077,8 @@ containing a value of this type.
         public static final int abc_textfield_searchview_holo_light=0x7f020054;
         public static final int abc_textfield_searchview_right_holo_dark=0x7f020055;
         public static final int abc_textfield_searchview_right_holo_light=0x7f020056;
-        public static final int ic_launcher=0x7f020057;
+        public static final int comunicablet_landing=0x7f020057;
+        public static final int ic_launcher=0x7f020058;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1198,8 +1199,9 @@ containing a value of this type.
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_main=0x7f030018;
         public static final int activity_main_menu=0x7f030019;
-        public static final int login=0x7f03001a;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
+        public static final int activity_splash_screen=0x7f03001a;
+        public static final int login=0x7f03001b;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001c;
     }
     public static final class menu {
         public static final int main=0x7f0c0000;
@@ -1253,6 +1255,7 @@ containing a value of this type.
         public static final int hello_world=0x7f0a000e;
         public static final int rut=0x7f0a0011;
         public static final int title_activity_main_menu=0x7f0a0013;
+        public static final int title_activity_splash_screen=0x7f0a0015;
         public static final int username=0x7f0a0010;
     }
     public static final class style {
@@ -1390,6 +1393,7 @@ containing a value of this type.
         /**  Base platform-dependent theme providing a light-themed activity. 
          */
         public static final int Theme_Base_Light=0x7f0b007f;
+        public static final int Theme_Transparent=0x7f0b008d;
         /**  Styles in here can be extended for customisation in your application. Each utilises
          one of the Base styles. If Holo themes are available on the current platform version
          they will be used instead of the compat styles. 

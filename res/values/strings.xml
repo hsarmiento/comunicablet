@@ -8,5 +8,7 @@
     <string name="rut">Rut</string>
     <string name="button_login">Entrar</string>
     <string name="title_activity_main_menu">MainMenuActivity</string>
-	<string name="button_logout">Logout</string>
+    <string name="button_logout">Logout</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
 </resources>
