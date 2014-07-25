@@ -10,5 +10,6 @@
     <string name="title_activity_main_menu">MainMenuActivity</string>
     <string name="button_logout">Logout</string>
     <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_full_screen_videos">FullScreenVideos</string>
 
 </resources>

@@ -37,6 +37,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.comunicablet.MainActivity" />
         </activity>
+        <activity
+            android:name=".FullScreenVideos"
+            android:label="@string/title_activity_full_screen_videos" >
+        </activity>
     </application>
 
 </manifest>
